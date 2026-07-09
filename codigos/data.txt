@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --add-data "formulario.py;." --add-data "base_datos.py;." --add-data "consultar.py;." --add-data "exportar.py;." programa.py
